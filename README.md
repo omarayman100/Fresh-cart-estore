@@ -8,4 +8,4 @@ Freshcart is also designed to integrate with dynamic APIs, which are APIs that c
 
 In addition to its core features, Freshcart includes a range of customizable components and templates that can be used to build a unique online store. These components include product listings, shopping carts, checkout forms, and user account pages.
 
-Overall, Freshcart provides a powerful and flexible platform for building e-commerce websites. Whether you're a developer looking to build your own custom online store or a small business looking for an easy-to-use and customizable solution, Freshcart has everything you need to get started. With its use of Angular, Bootstrap, Yup, and Axios, Freshcart provides a robust and secure user experience that is sure to delight customers and developers alike.
+ Freshcart provides a robust and secure user experience that is sure to delight customers and developers alike.
